@@ -3,7 +3,7 @@ name: scholarly-footnote-subversion
 description: Present meticulously researched facts with cheeky asides that humanize historical absurdity—combining rigorous scholarship with playful deflation of pomposity (inspired by Terry Jones's presentatio...
 license: MIT
 metadata:
-  version: 1.0.4916
+  version: 1.0.4917
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
